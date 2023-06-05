@@ -2,7 +2,7 @@
 How and why to use Bootstrap in you Flask project.
 
 
-
+Bootstrap 
 
 Here is the Bootstrap website and explanation of how to use Bootstrap in your project.
 https://getbootstrap.com/docs/4.3/getting-started/introduction/
